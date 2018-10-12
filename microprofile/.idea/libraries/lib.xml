@@ -1,0 +1,70 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/elytron-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/config-api-runtime-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jca-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/config-api-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/javax.el-impl-3.0.1-b08-jbossorg-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/xnio-api-3.3.8.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/logging-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jaxrs-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/narayana-jts-idlj-5.5.30.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/shrinkwrap-spi-1.2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/snakeyaml-1.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/undertow-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jandex-2.0.5.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/openjdk-orb-8.0.4.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/shrinkwrap-api-1.2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jboss-logging-3.3.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jboss-connector-api_1.7_spec-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/shrinkwrap-descriptors-api-jboss-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jackson-module-jaxb-annotations-2.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/shrinkwrap-descriptors-impl-jboss-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jboss-jaxrs-api_2.0_spec-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/asm-6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jboss-servlet-api_3.1_spec-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jboss-modules-1.6.4.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/io-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jboss-el-api_3.0_spec-1.0.9.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/datasources-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/security-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jboss-annotations-api_1.2_spec-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jboss-websocket-api_1.1_spec-1.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/xnio-nio-3.3.8.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jackson-jaxrs-base-2.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/ee-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/spi-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/undertow-servlet-1.4.18.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jackson-annotations-2.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jackson-core-2.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/shrinkwrap-descriptors-api-base-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/connector-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/bootstrap-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/request-controller-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/asm-tree-6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/meta-spi-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/shrinkwrap-descriptors-spi-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/container-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jackson-databind-2.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jboss-interceptors-api_1.2_spec-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jpa-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/transactions-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/asm-commons-6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/shrinkwrap-impl-base-1.2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/shrinkwrap-descriptors-impl-javaee-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jackson-jaxrs-json-provider-2.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/undertow-core-1.4.18.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jboss-concurrency-api_1.0_spec-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/shrinkwrap-descriptors-api-javaee-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/shrinkwrap-descriptors-impl-base-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/jaxrs-cdi-2.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/ironjacamar-jdbc-1.4.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/demo/WEB-INF/lib/naming-2.2.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

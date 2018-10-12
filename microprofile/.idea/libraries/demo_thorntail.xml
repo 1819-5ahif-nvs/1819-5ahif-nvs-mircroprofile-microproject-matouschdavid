@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="demo-thorntail">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/demo-thorntail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
